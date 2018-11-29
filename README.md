@@ -7,7 +7,7 @@ A shared repo of token projects and links to their whitepapers. Submit PRs to ad
 To submit a white paper, fork this repo and add your white paper info with this structure:  
 
 ```
-AIDOC,AI Doctor,http://aidoc.me/html/AIDOCWhitepaperv0.777777.pdf
+GNT,Golem,https://golem.network/crowdfunding/Golemwhitepaper.pdf
 ```
 
 Which corresponds to SYMBOL,NAME,WHITEPAPER
@@ -15,7 +15,7 @@ Which corresponds to SYMBOL,NAME,WHITEPAPER
 If a project has multiple white papers, use quotations:
 
 ```
-AIDOC,AI Doctor,”http://whitepaper1.pdf,http://whitepaper2.pdf,http://whitepaper3.pdf”
+GNT,Golem,”http://golemwhitepaper.com/business.pdf,http://golemwhitepaper.com/technical.pdf,http://golemwhitepaper.com/marketplace.pdf”
 ```
 
 ## Criteria
