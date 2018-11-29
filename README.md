@@ -7,25 +7,21 @@ A shared repo of token projects and links to their whitepapers. Submit PRs to ad
 To submit a white paper, fork this repo and add your white paper info with this structure:  
 
 ```
-{
-  symbol: BLC,
-  name: BlockchainToken,
-  url: https://blockchain.network/whitepaper.pdf
-}
+AIDOC,AI Doctor,http://aidoc.me/html/AIDOCWhitepaperv0.777777.pdf
 ```
 
-If a project has multiple white papers, submit a request to add them all:
+Which corresponds to SYMBOL,NAME,WHITEPAPER
+
+If a project has multiple white papers, use quotations:
+
 ```
-{
-  symbol: BLC,
-  name: BlockchainToken,
-  url: [https:whitepaper.pdf, https:yellowpaper.pdf] 
-}
+AIDOC,AI Doctor,”http://whitepaper1.pdf,http://whitepaper2.pdf,http://whitepaper3.pdf”
 ```
 
 ## Criteria
 1. The URL should point directly to the official file on the project site if it exists
-2. If multiple versions of the whitepaper exist, add them in an array
+2. If multiple whitepaper versions exist, include all of them in quotations (see Submission process)
 3. If the token symbol is already claimed by another project, add an underscore numerical tag (ex: _1)
 
-If you have any suggestions on the criteria or to disagree about a token submission, chat here [link to github chat]
+
+We want to make this a community resource and welcome all suggestions. Open an issue to discuss if you have an idea for a new criteria. 
