@@ -15,7 +15,7 @@ Which corresponds to SYMBOL,NAME,WHITEPAPER
 If a project has multiple white papers, use quotations:
 
 ```
-GNT,Golem,”http://golemwhitepaper.com/business.pdf,http://golemwhitepaper.com/technical.pdf,http://golemwhitepaper.com/marketplace.pdf”
+GNT,Golem,"http://golemwhitepaper.com/business.pdf,http://golemwhitepaper.com/technical.pdf,http://golemwhitepaper.com/marketplace.pdf"
 ```
 
 ## Criteria
