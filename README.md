@@ -28,10 +28,4 @@ If a project has multiple white papers, submit a request to add them all:
 2. If multiple versions of the whitepaper exist, add them in an array
 3. If the token symbol is already claimed by another project, add an underscore numerical tag (ex: _1)
 
-## Acceptable reasons for submission:
-1. New project and white paper
-2. An updated white paper
-3. Correct a broken white paper link
-4. Update the link to come from a more reputable source (e.g. official project site)
-
 If you have any suggestions on the criteria or to disagree about a token submission, chat here [link to github chat]
