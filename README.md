@@ -1,6 +1,6 @@
 # Description
 
-A shared repo of token projects and links to their whitepapers. Submit PRs to add new tokens whitepapers and update existing ones.
+A shared repo of token projects and links to their whitepapers. Submit PRs to add new tokens whitepapers and update existing ones to whitepapers.csv
 
 ## Submission process
 
