@@ -4,7 +4,7 @@ A shared repo of token projects and links to their whitepapers. Submit PRs to ad
 
 ## Submission process
 
-To submit a white paper, fork this repo and add your white paper info with this structure:  
+To submit a whitepaper, [open an issue](https://help.github.com/articles/creating-an-issue/) and add your whitepaper info with this structure:  
 
 ```
 GNT,Golem,https://golem.network/crowdfunding/Golemwhitepaper.pdf
