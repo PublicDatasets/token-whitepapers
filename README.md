@@ -36,7 +36,7 @@ Example:
 
 ```
 action: Update
-criteria failed: (1) Preference for whitepaper URL that is on the official project website or social media, (2) Preference for the latest version of the whitepaper
+criteria: (1) Preference for whitepaper URL that is on the official project website or social media, (2) Preference for the latest version of the whitepaper
 proof: The new link is found on the official website http://fuzex.co/ and it's version 1.8 of the whitepaper as opposed to 1.6
 data: FXT, FuzeX, http://fuzex.co/pdf/FuzeX_whitepaper_EN_Ver_1.8.pdf
 ```
