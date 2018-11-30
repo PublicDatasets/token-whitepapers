@@ -6,7 +6,7 @@ name: Golem
 
 url: http://golemwhitepaper.com/business.pdf, http://golemwhitepaper.com/technical.pdf, http://golemwhitepaper.com/marketplace.pdf
 
-**USE THIS TEMPLATE TO EDIT OR REMOVE**
+**USE THIS TEMPLATE TO UPDATE OR REMOVE**
 
 action: Update or Remove
 
