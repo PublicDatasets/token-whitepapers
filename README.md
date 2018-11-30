@@ -25,7 +25,8 @@ url: http://golemwhitepaper.com/business.pdf, http://golemwhitepaper.com/technic
 Create an issue with the following structure:
 
 ```
-criteria failed: List the failed criteria
+action: Update or Remove
+criteria: List the failed criteria
 proof: Explain why it failed the criteria 
 data (this is the data you want to update/remove): GNT, Golem, https://updatedgolemwhitepaper.com
 ```
@@ -34,6 +35,7 @@ Example:
 
 
 ```
+action: Update
 criteria failed: (1) Preference for whitepaper URL that is on the official project website or social media, (2) Preference for the latest version of the whitepaper
 proof: The new link is found on the official website http://fuzex.co/ and it's version 1.8 of the whitepaper as opposed to 1.6
 data: FXT, FuzeX, http://fuzex.co/pdf/FuzeX_whitepaper_EN_Ver_1.8.pdf
