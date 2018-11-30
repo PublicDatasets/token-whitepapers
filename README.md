@@ -12,7 +12,7 @@ GNT,Golem,https://golem.network/crowdfunding/Golemwhitepaper.pdf
 
 Which corresponds to SYMBOL,NAME,WHITEPAPER
 
-If a project has multiple white papers, use quotations:
+If a project has multiple whitepapers, use quotations:
 
 ```
 GNT,Golem,"http://golemwhitepaper.com/business.pdf,http://golemwhitepaper.com/technical.pdf,http://golemwhitepaper.com/marketplace.pdf"
