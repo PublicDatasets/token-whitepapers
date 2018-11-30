@@ -17,7 +17,7 @@ If a project has multiple whitepapers, you can include them using this format:
 ```
 symbol: GNT
 name: Golem
-url: http://golemwhitepaper.com/business.pdf, http://golemwhitepaper.com/technical.pdf, http://golemwhitepaper.com/marketplace.pdf
+url: http://golemwhitepaper.com/business.pdf, http://golemwhitepaper.com/technical.pdf, http://golemwhitepaper.com/chinese.pdf
 ```
 
 ## Update & Removal process
@@ -46,9 +46,10 @@ data: FXT, FuzeX, http://fuzex.co/pdf/FuzeX_whitepaper_EN_Ver_1.8.pdf
 ## Criteria
 1. Preference for whitepaper URL that is on the official project website or social media
 2. Preference for the latest version of the whitepaper
+3. URL must be live
 
 
-If the token symbol is already claimed by another project, add an underscore numerical tag (ex: gnt and gnt_1)
+If you want to add a token symbol is already claimed by another project, add an underscore numerical tag (ex: gnt and gnt_1)
 
 
 We want to make this a community resource and welcome all suggestions. Open an issue to discuss if you have an idea for a new criteria. 
