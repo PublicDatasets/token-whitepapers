@@ -1,4 +1,4 @@
-# Description
+# Cryptocurrency Token Whitepapers
 
 A shared repo of token projects and links to their whitepapers. Submit PRs to add new tokens whitepapers and update existing ones to whitepapers.csv. Help us keep this list up to date and keep it a community resource.
 
