@@ -1,5 +1,6 @@
 SYMBOL,NAME,WHITEPAPER
 MET,Metronome,https://www.metronome.io/download/owners_manual.pdf
+LIGHT,Light Chain,http://www.lightchain.one/pdf/LIGHT_wp_v1.01_en_001.pdf
 AIDOC,AI Doctor,http://aidoc.me/html/AIDOCWhitepaperv0.777777.pdf
 BQ,bitqy,http://bitqy.org/wp-content/uploads/bitqy_whitepaper_v1-4.pdf
 CPX,Apex,http://cdn.chinapex.com.cn/med/videos/to/APEX-Development-Plan-eng.pdf
@@ -148,7 +149,7 @@ LINDA,Linda,https://lindacoin.com/pdf/Lindacoin-Whitepaper-current-version.pdf
 LYL,LoyalCoin,https://loyalcoin.io/whitepaper.pdf
 RHOC,RChain,https://media.readthedocs.org/pdf/rchain-architecture/stable/rchain-architecture.pdf
 XP,Experience Points,https://media.xpcoin.io/docs/XP-WhitePaper-v3.pdf
-MED,MediBloc,https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_en.pdf
+"MED,MEDX",MediBloc,https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_en.pdf
 MTN,Medicalchain,https://medicalchain.com/Medicalchain-Whitepaper-EN.pdf
 MEDIC,MedicCoin,https://mediccoin.com/MedicCoinWhitePaper.pdf
 SALT,SALT,https://membership.saltlending.com/files/abstract.pdf
@@ -563,7 +564,7 @@ SHL,Oyster Shell,https://oysterdev.wpengine.com/wp-content/uploads/2018/07/Shell
 PRG,Paragon,https://paragoncoin.com/whitepaper.pdf
 PAT,Patron,https://patron-ico.io/doc/patron-wp-en-01-20180423.pdf
 PMNT,Paymon,https://paymon.org/assets/main/index/docs/White_Paper_version_2_0_eng.pdf
-XNK,Ink Protocol,https://paywithink.com/wp-content/uploads/2017/12/Ink_Protocol_Whitepaper_V5_Listia_Inc.pdf
+XNK,Ink Protocol,https://paywithink.com/wp-content/uploads/2018/07/Ink_Protocol_Whitepaper_V9_Listia_Inc.pdf
 PCL,Peculium,https://peculium.io/sites/default/files/PDF/White_paper.pdf
 SOUL,Phantasma,https://phantasma.io/phantasma_whitepaper.pdf
 LUC,Level Up Coin,https://play2live.io/storage/b/2/Whitepaper_eng.pdf
