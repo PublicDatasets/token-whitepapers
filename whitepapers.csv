@@ -96,8 +96,7 @@ ICX,ICON,https://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf
 HTML,HTMLCOIN,https://docs.wixstatic.com/ugd/d420c8_b9d99ea79d644ac783e73561ce4713bf.pdf
 ZIL,Zilliqa,https://docs.zilliqa.com/whitepaper.pdf
 SKY,Skycoin,https://downloads.skycoin.net/whitepapers/Skycoin-Whitepaper-v1.0.pdf
-DRGN,Dragonchain,https://dragonchain.com/dd6d7a464346349a66
-59b8c1075e6772.pdf
+DRGN,Dragonchain,https://dragonchain.com/dd6d7a464346349a6659b8c1075e6772.pdf
 DROP,Dropil,https://dropil.com/wp-content/uploads/2018/01/Dropil_WhitePaper.pdf
 ECC,ECC,https://ecc.network/downloads/documents/en/ecc-whitepaper.pdf
 EDO,Eidoo,https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_EN.pdf
@@ -197,7 +196,7 @@ SENT,Sentinel,https://s3-ap-southeast-1.amazonaws.com/sentinelprotocol.io/whitep
 UTK,UTRUST,https://s3-eu-west-1.amazonaws.com/utrust/whitepaper/en/UTRUST-whitepaper-en-2017-11-02.pdf
 STORM,Storm,https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf
 DATA,Streamr DATAcoin,https://s3.amazonaws.com/streamr-public/streamr-datacoin-whitepaper-2017-07-25-v1_0.pdf
-WAVES,Waves,https://s3.ca-central-1.amazonaws.com/wavesdb.com/images/whitepaper_v0.pdf
+WAVES,Waves,https://blog.wavesplatform.com/waves-whitepaper-164dd6ca6a23
 THETA,Theta Token,https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf
 KEY,Selfkey,https://selfkey.org/wp-content/uploads/2017/11/selfkey-whitepaper-en.pdf
 SENC,Sentinel Chain,https://sentinel-chain.org/Sentinel.Chain.Whitepaper.v0_31.1.pdf
@@ -216,7 +215,7 @@ STORJ,Storj,https://storj.io/storj.pdf
 STRAT,Stratis,https://stratisplatform.com/files/Stratis_Whitepaper.pdf
 SNC,SunContract,https://suncontract.org/res/whitepaper.pdf
 SWM,Swarm,https://swarmfund.blob.core.windows.net/swarmassets/swarm-whitepaper-v081.pdf
-BCO,BridgeCoin,https://sweetbridge.com/public/docs/Sweetbridge-Whitepaper.pdf
+BCO,BridgeCoin,https://sweetbridge.com/assets/docs/Sweetbridge-Whitepaper-20180529.pdf
 AMP,Synereo,https://synereo.com/wp-content/uploads/WhitePaper.pdf
 SYS,Syscoin,https://syscoin.org/Syscoin_3.0_Whitepaper__Condensed.pdf
 XTZ,Tezos,https://tezos.com/static/papers/white_paper.pdf
