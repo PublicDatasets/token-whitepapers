@@ -1,55 +1,20 @@
 # Cryptocurrency Token Whitepapers
 
-A shared repo of token projects and links to their whitepapers. Submit PRs to add new tokens whitepapers and update existing ones to whitepapers.csv. Help us keep this list up to date and keep it a community resource.
+A shared repo of token projects and links to their whitepapers. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdA0TAfCMUNaLlXjSdkpH5pCFwpsyocR3gOMVqHdqsdwZDrcQ/viewform) to initiate a vote to add new tokens whitepapers or update existing ones. Help us keep this list up to date and keep it a community resource.
 
 ## Submission process
 
-To submit a whitepaper, [create an issue](https://help.github.com/articles/creating-an-issue/) and add your whitepaper info with this structure:  
+To submit/update/remove a whitepaper, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdA0TAfCMUNaLlXjSdkpH5pCFwpsyocR3gOMVqHdqsdwZDrcQ/viewform). A voting period will then be initiated to decide if the action will go through or not.
 
-```
-symbol: GNT
-name: Golem
-url: https://golem.network/crowdfunding/Golemwhitepaper.pdf
-```
-
-If a project has multiple whitepapers, you can include them using this format:
-
-```
-symbol: GNT
-name: Golem
-url: http://golemwhitepaper.com/business.pdf, http://golemwhitepaper.com/technical.pdf, http://golemwhitepaper.com/chinese.pdf
-```
-
-## Update & Removal process
-
-Create an issue with the following structure:
-
-```
-action: Update or Remove
-criteria: List the failed criteria
-proof: Explain why it failed the criteria 
-data (this is the data you want to update/remove): GNT, Golem, https://updatedgolemwhitepaper.com
-```
-
-Example:
-
-
-```
-action: Update
-criteria: (1) Preference for whitepaper URL that is on the official project website or social media, (2) Preference for the latest version of the whitepaper
-proof: The new link is found on the official website http://fuzex.co/ and it's version 1.8 of the whitepaper as opposed to 1.6
-data: FXT, FuzeX, http://fuzex.co/pdf/FuzeX_whitepaper_EN_Ver_1.8.pdf
-```
-
-
-
-## Criteria
+## Criteria of a good submission
 1. Preference for whitepaper URL that is on the official project website or social media
 2. Preference for the latest version of the whitepaper
 3. URL must be live
 
+## Voting process
+
+Active votes are listed in [open issues](https://github.com/PublicDatasets/token-whitepapers/issues). To vote, simply leave 👍 if you agree that the action sufficiently meets the criteria (see: `Criteria of a good submission`) to be added to whitepapers.csv, and 👎 if not. Voting closes 3 hours after the form has been submitted.
 
 If you want to add a token symbol is already claimed by another project, add an underscore numerical tag (ex: gnt and gnt_1)
-
 
 We want to make this a community resource and welcome all suggestions. Open an issue to discuss if you have an idea for a new criteria. 
