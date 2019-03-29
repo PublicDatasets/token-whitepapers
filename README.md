@@ -2,9 +2,17 @@
 
 A shared repo of token projects and links to their whitepapers. Submit PRs to add new tokens whitepapers and update existing ones to whitepapers.csv. Help us keep this list up to date and keep it a community resource.
 
-## Submission process
+## THIS REPO HAS MOVED
 
-To submit a whitepaper, [create an issue](https://help.github.com/articles/creating-an-issue/) and add your whitepaper info with this structure:  
+## Please go to [OpenMarketCap](https://openmarketcap.com/research/4) for a complete and updated list of token projects and links to their whitepapers.
+
+## Submit new whitepapers here: [OpenMarketCap](https://openmarketcap.com/research/4)
+
+### Submission process [MOVED TO [OpenMarketCap](https://openmarketcap.com/research/4)]
+
+~~To submit a whitepaper, [create an issue](https://help.github.com/articles/creating-an-issue/) and add your whitepaper info with this structure:~~
+
+To submit a whitepaper, please go to [OpenMarketCap](https://openmarketcap.com/research/4).
 
 ```
 symbol: GNT
@@ -12,7 +20,7 @@ name: Golem
 url: https://golem.network/crowdfunding/Golemwhitepaper.pdf
 ```
 
-If a project has multiple whitepapers, you can include them using this format:
+~~If a project has multiple whitepapers, you can include them using this format:~~
 
 ```
 symbol: GNT
@@ -20,9 +28,9 @@ name: Golem
 url: http://golemwhitepaper.com/business.pdf, http://golemwhitepaper.com/technical.pdf, http://golemwhitepaper.com/chinese.pdf
 ```
 
-## Update & Removal process
+### Update & Removal process [MOVED TO [OpenMarketCap](https://openmarketcap.com/research/4)]
 
-Create an issue with the following structure:
+~~Create an issue with the following structure:~~
 
 ```
 action: Update or Remove
@@ -31,8 +39,7 @@ proof: Explain why it failed the criteria
 data (this is the data you want to update/remove): GNT, Golem, https://updatedgolemwhitepaper.com
 ```
 
-Example:
-
+~~Example:~~
 
 ```
 action: Update
@@ -41,9 +48,7 @@ proof: The new link is found on the official website http://fuzex.co/ and it's v
 data: FXT, FuzeX, http://fuzex.co/pdf/FuzeX_whitepaper_EN_Ver_1.8.pdf
 ```
 
-
-
-## Criteria
+### Criteria
 1. Preference for whitepaper URL that is on the official project website or social media
 2. Preference for the latest version of the whitepaper
 3. URL must be live
